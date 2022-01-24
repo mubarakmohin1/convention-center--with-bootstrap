@@ -1,1 +1,15 @@
+ /* google */
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
  
+ /* card uppper position */
+ .upper-prof{
+     bottom: 40px;
+ }
+  /* foot-img */
+ .logo img{
+     width: 30%;
+     padding: 5px;
+ }
+  
